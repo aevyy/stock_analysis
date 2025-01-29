@@ -1,0 +1,80 @@
+date,headline,sentiment_textblob,sentiment_finbert,Close,Volume,MA5,MA20,RSI,price_change
+2024-12-30,"Nvidia open-sources Run:ai, the software it acquired for $700M to help companies manage GPUs for AI",0.0,2.640742422954645e-05,137.49000549316406,167734700,,,,
+2024-12-30,"Nvidia Open-Sources Run:ai, the Software It Acquired For $700 Million",0.0,2.26568772632163e-06,137.49000549316406,167734700,,,,0.0
+2024-12-30,Nvidia closes $700 million Run:ai acquisition after regulatory hurdles,0.0,0.019250230863690376,137.49000549316406,167734700,,,,0.0
+2024-12-31,Nvidia and Microsoft: Top Tech Picks as Wedbush Predicts 25% Rally in 2025,0.5,0.9997628331184387,134.2899932861328,155659200,,,,-2.32745078127905
+2024-12-31,Intel Suffers Worst Year Since 1971 IPO,-0.8,7.29364255676046e-05,134.2899932861328,155659200,,,,0.0
+2024-12-31,LG’s lightweight Gram laptops get new Intel chips and offline AI features,0.13636363636363635,0.012417828664183617,134.2899932861328,155659200,,,,0.0
+2024-12-31,Why Nvidia’s (NVDA) China Revenue Is Guaranteed Despite Restrictions,0.0,0.003937415312975645,134.2899932861328,155659200,,,,0.0
+2025-01-03,Nvidia Tops Semiconductor Rankings as Fund Managers Bet Big on AI-Led Growth,0.0,0.999998927116394,144.47000122070312,229322500,,,,7.580615417024927
+2025-01-03,"CES 2025: The new tech we're expecting to see from Samsung, NVIDIA, LG and more in Las Vegas",0.3181818181818182,7.529163849540055e-05,144.47000122070312,229322500,,,,0.0
+2025-01-03,AI: Why investors need to expand beyond Nvidia,0.0,0.001968769123777747,144.47000122070312,229322500,,,,0.0
+2025-01-03,"Watch the NVIDIA CES 2025 press conference live: Monday, 9:30PM ET",0.13636363636363635,3.589953507798782e-07,144.47000122070312,229322500,,,,0.0
+2025-01-06,"Nvidia bear, housing market stalemate: Asking for a Trend",0.0,6.8023423409613315e-06,149.42999267578125,265377400,,,,3.433232791007512
+2025-01-06,AMD announces next-gen Radeon RX 9070-series GPUs with AI-powered FSR 4 upscaling,0.0,0.4758206605911255,149.42999267578125,265377400,,,,0.0
+2025-01-06,Nvidia stock jumps 4% before CEO Jensen Huang's CES keynote,0.0,0.9395527839660645,149.42999267578125,265377400,,,,0.0
+2025-01-06,"CES 2025: The press conferences and new tech we're expecting to see from Samsung, NVIDIA, LG and more",0.3181818181818182,2.6144000457861694e-06,149.42999267578125,265377400,,,,0.0
+2025-01-07,NVIDIA DLSS 4 is coming to all RTX GPUs,0.0,1.881182214447108e-07,140.13999938964844,351782200,,,,-6.216953584605567
+2025-01-07,"Nvidia’s $3,000 ‘Personal AI Supercomputer’ Will Let You Ditch the Data Center",-0.05,5.30302031620522e-07,140.13999938964844,351782200,,,,0.0
+2025-01-07,"Nvidia announces GeForce RTX 50-series graphics cards, starting at $549",0.0,0.0005138448323123157,140.13999938964844,351782200,,,,0.0
+2025-01-07,Everything Announced at Nvidia's CES Event in 12 Minutes video,0.0,1.113206849367998e-06,140.13999938964844,351782200,,,,0.0
+2025-01-07,Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs,0.0,0.9922829270362854,140.13999938964844,351782200,,,,0.0
+2025-01-07,"Fresh job market data, Nvidia falls from record highs: Catalysts",0.3,0.9999983310699463,140.13999938964844,351782200,,,,0.0
+2025-01-07,Nvidia releases its own brand of world models,0.6,0.00012787670129910111,140.13999938964844,351782200,,,,0.0
+2025-01-07,Inworld AI teams with Nvidia and Streamlabs on intelligent streaming assistant,0.8,4.151164375798544e-06,140.13999938964844,351782200,,,,0.0
+2025-01-07,NVIDIA's Reflex 2 predicts milliseconds into the future of competitive games,0.0,0.16408704221248627,140.13999938964844,351782200,,,,0.0
+2025-01-07,The ROG Strix Scar 16 and 18 come with a lid that lights up and more RGB,0.5,1.4355883877215092e-06,140.13999938964844,351782200,,,,0.0
+2025-01-07,Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate,0.13636363636363635,5.574211172643118e-06,140.13999938964844,351782200,,,,0.0
+2025-01-07,Everything we know about Nvidia's new products and partnerships,0.13636363636363635,0.00011566253670025617,140.13999938964844,351782200,,,,0.0
+2025-01-07,Nvidia To Deploy AI Teammates in Video Games this Year,0.0,0.00014206387277226895,140.13999938964844,351782200,,,,0.0
+2025-01-07,"Nvidia Launches RTX 50 Blackwell GPUs: From the $2,000 RTX 5090 To the $549 RTX",0.0,0.0027848395984619856,140.13999938964844,351782200,,,,0.0
+2025-01-07,Nvidia unveils GeForce RTX 50 Series graphics cards with big performance gains,0.0,1.0,140.13999938964844,351782200,,,,0.0
+2025-01-07,"NVIDIA's RTX 5090 graphics card costs $2,000",0.0,2.8195438517286675e-06,140.13999938964844,351782200,,,,0.0
+2025-01-07,Acer’s latest Predator gaming laptops include RTX 50-series GPUs,0.5,1.2884293937531766e-05,140.13999938964844,351782200,,,,0.0
+2025-01-07,Asus just announced the world’s first Thunderbolt 5 eGPU,0.25,0.001098429667763412,140.13999938964844,351782200,,,,0.0
+2025-01-07,Mark Zuckerberg and Jensen Huang jointly became $28 billion richer in 3 days as AI buzz reignites,0.0,1.4277948139351793e-05,140.13999938964844,351782200,,,,0.0
+2025-01-07,The Wait Is Over: Nvidia's Next-Gen RTX 50-Series GPUs Are Here,0.0,0.0017479989910498261,140.13999938964844,351782200,,,,0.0
+2025-01-08,CES 2025: Huang unveils Nvidia 'Project Digits' AI supercomputer,0.0,2.5670889954199083e-05,140.11000061035156,227349900,,,,-0.02140629329779875
+2025-01-08,Nvidia's Huang Says 'Very Useful' Quantum Computers Likely Decades Away,0.195,0.08882182836532593,140.11000061035156,227349900,,,,0.0
+2025-01-08,The pros and cons of making advanced chips in America,0.4,1.1246307849432924e-06,140.11000061035156,227349900,,,,0.0
+2025-01-08,"Dow Jones Futures: Stock Market Sells Off As Nvidia, Palantir Tumble; What To Do Now",0.0,0.09154820442199707,140.11000061035156,227349900,,,,0.0
+2025-01-08,"Nvidia's Jensen Huang says he hasn't received his Mar-a-Lago invite yet, but would be 'delighted' to get one",0.7,0.9999932050704956,140.11000061035156,227349900,,,,0.0
+2025-01-08,"Let's Be Honest, AI at CES 2025 Was All About Nvidia",0.6,1.6493199836986605e-06,140.11000061035156,227349900,,,,0.0
+2025-01-08,Nvidia’s Jensen Huang hints at ‘plans’ for its own desktop CPU,0.6,6.774452003810438e-07,140.11000061035156,227349900,,,,0.0
+2025-01-08,Quantum computing stocks tumble after Nvidia boss Jensen Huang says the tech is still 20 years away,0.0,2.7311914436722873e-06,140.11000061035156,227349900,,,,0.0
+2025-01-10,Nvidia CEO: Quantum Computers Won't Be Very Useful for Another 20 Years,0.39,1.9070434973400552e-06,135.91000366210938,207602500,,,,-2.9976425165555876
+2025-01-10,"NVIDIA, AMD and Intel aimed for maximum power at CES 2025",0.0,1.1222855391679332e-06,135.91000366210938,207602500,,,,0.0
+2025-01-10,"Jensen Huang Says Nvidia Is a ‘Technology Company,’ but It’s Really an AI Company",0.2,9.64750324783381e-06,135.91000366210938,207602500,,,,0.0
+2025-01-13,"In the future, we will all manage our own AI agents | Jensen Huang Q&A",0.3,2.2121423626231262e-06,133.22999572753906,204808900,,,,-1.9718989495675188
+2025-01-13,"Nvidia scientist praises Chinese humanoid robot, stoking interest",0.0,0.29494962096214294,133.22999572753906,204808900,,,,0.0
+2025-01-13,Krafton and Nvidia team up to create smarter AI characters for PUBG and inZOI,0.0,0.29757004976272583,133.22999572753906,204808900,,,,0.0
+2025-01-13,Why Nvidia (NVDA) Is Retreating Today,0.0,0.06828609108924866,133.22999572753906,204808900,,,,0.0
+2025-01-13,Biden announces fresh AI chip export controls,0.3,0.7903838157653809,133.22999572753906,204808900,,,,0.0
+2025-01-13,Nvidia Snaps Back at Biden's 'Innovation-Killing' AI Chip Export Restrictions,0.0,0.18612492084503174,133.22999572753906,204808900,,,,0.0
+2025-01-13,Will Nvidia Spark a New Generation of Linux PCs?,0.13636363636363635,0.038028351962566376,133.22999572753906,204808900,,,,0.0
+2025-01-14,"The New $30,000 Side Hustle: Making Job Referrals for Strangers",0.13636363636363635,0.00018502883904147893,131.75999450683594,195590500,,,,-1.1033560518228458
+2025-01-14,Maingear ML-16 Review: Average Gaming Performance at Custom Price,-0.15,7.3691271609277464e-06,131.75999450683594,195590500,,,,0.0
+2025-01-14,"HP OmniStudio X Review: Big, Bright All-in-One Backed by Nvidia Graphics Brawn",0.35000000000000003,4.242476734361844e-06,131.75999450683594,195590500,,,,0.0
+2025-01-15,Walmart Teases That Nintendo Will Maybe Announce the Switch 2 This Week,0.0,3.9526997852590284e-07,136.24000549316406,185217300,,,,3.4001299127981444
+2025-01-16,Quantum Computing Stocks Rally as Microsoft Pushes Quantum-Ready Future,0.0,0.9999935626983643,133.57000732421875,209235600,,,,-1.9597754413473556
+2025-01-16,TSMC profits surge 57% as demand for AI chips remains high,0.16,1.0,133.57000732421875,209235600,,,,0.0
+2025-01-16,CES 2025: We Still See These 35 Products When We Close Our Eyes,0.0,2.970846821881423e-07,133.57000732421875,209235600,,,,0.0
+2025-01-21,Nvidia's autonomous car business is rising. Here's how it could make every car self-driving.,0.4,0.9972621202468872,140.8300018310547,197749000,,,,5.4353478391399035
+2025-01-22,Trump’s first 100 days: all the news impacting the tech industry,0.25,7.34362811272149e-06,147.07000732421875,237651400,,,,4.4308779464831805
+2025-01-23,How to buy a NVIDIA RTX 50 series GPU,0.0,0.0028786088805645704,147.22000122070312,155915500,,,,0.10198809343477944
+2025-01-23,Nvidia’s GeForce RTX 5090 Review: A Video Card With AI,0.0,4.9909762310562655e-05,147.22000122070312,155915500,,,,0.0
+2025-01-24,Report Claims Trump’s $100 Billion AI Project ‘Stargate’ Is Designed to Benefit One Company: OpenAI,0.0,0.9997727274894714,142.6199951171875,234657600,,,,-3.1245795852287594
+2025-01-24,"The Nvidia RTX 5090 Generates So Many Frames, It Scares Me",0.5,3.3226353934878716e-06,142.6199951171875,234657600,,,,0.0
+2025-01-27,Intel's former CEO says the market is getting DeepSeek wrong after AI chip stock rout,-0.25,5.578165655606426e-05,118.41999816894531,818830900,,,,-16.96816559862986
+2025-01-27,"DeepSeek unleashes ‘Janus Pro 7B’ vision model amidst AI stock bloodbath, igniting fresh fears of Chinese tech dominance",0.15,0.9999916553497314,118.41999816894531,818830900,,,,0.0
+2025-01-27,"Lambda Labs' COO has left the AI cloud provider to head Positron, a startup trying to compete with Nvidia",0.0,6.700561243633274e-07,118.41999816894531,818830900,,,,0.0
+2025-01-27,"Nvidia Dismisses China AI Threat, Says DeepSeek Still Needs Its Chips",0.0,0.0004895994788967073,118.41999816894531,818830900,,,,0.0
+2025-01-27,China’s DeepSeek AI assistant becomes top free iPhone app as US tech stocks take a hit,0.45,0.7509155869483948,118.41999816894531,818830900,,,,0.0
+2025-01-27,New Open Source DeepSeek V3 Language Model Making Waves,0.06818181818181818,0.0067840213887393475,118.41999816894531,818830900,,,,0.0
+2025-01-27,Nvidia tumbles and tech stocks slide premarket as China's DeepSeek spooks AI investors,0.0,6.96621646056883e-05,118.41999816894531,818830900,,,,0.0
+2025-01-27,Nvidia heads for record sell-off on China's DeepSeek worries,0.0,0.179570734500885,118.41999816894531,818830900,,,,0.0
+2025-01-28,"Investors worry DeepSeek reduces AI chip demand, but there's a case for remaining bullish on Nvidia",0.0,0.9998704195022583,128.99000549316406,579666400,,,,8.925863441695814
+2025-01-28,"Who foresaw the DeepSeek-caused sell-off of Magnificent 7 stocks? Hedge funds, which have been cutting exposure for months",0.2,0.005384358577430248,128.99000549316406,579666400,,,,0.0
+2025-01-28,"DeepSeek Has Spent Over $500 Million on Nvidia Chips Despite Low-Cost AI Claims, SemiAnalysis Says",-0.1,1.2271153536858037e-05,128.99000549316406,579666400,,,,0.0
+2025-01-28,DeepSeek AI is crushing the competition and triggering an AI stock bloodbath,0.4,0.9970082640647888,128.99000549316406,579666400,,,,0.0
+2025-01-28,"Nvidia sell-off, markets under Trump, coffee: Market Takeaways",0.0,0.00019649474415928125,128.99000549316406,579666400,,,,0.0
