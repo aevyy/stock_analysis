@@ -6,6 +6,10 @@ from textblob import TextBlob
 from datetime import datetime, timedelta
 from newsapi import NewsApiClient
 from transformers import BertTokenizer, BertForSequenceClassification
+from dotenv import load_dotenv
+
+load_dotenv()
+api_key = os.getenv("API_KEY")
 
 class StockNewsAnalyzer:
     def __init__(self, api_key):
@@ -153,7 +157,6 @@ def main():
         if os.path.exists(csv_path):
             os.remove(csv_path)
 
-        api_key = "57a0a93396044df7ae44e6d72f084cfa"
         analyzer = StockNewsAnalyzer(api_key)
         merged_df = analyzer.process_data()
         print("Data processing completed successfully!")
