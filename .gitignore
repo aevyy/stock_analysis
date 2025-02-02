@@ -15,3 +15,6 @@ Scripts/
 
 # API_KEY
 .env
+
+# Requirements
+requirements.txt
