@@ -1,21 +1,17 @@
-# Ignore Python cache files
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# specific files and directories
+Notebooks/
+Scripts/
 
-# virtual environment files
-venv/
-env/
-
-# temporary system files
-Thumbs.db
-
-# logs and temp files
-*.log
-*.tmp
+# other files
+*.checkpoint.py
 
 # API_KEY
 .env
